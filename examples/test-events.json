@@ -1,0 +1,22 @@
+[
+  {
+    "id": "inference_001",
+    "timestamp": "2025-07-04T10:30:00Z",
+    "attributes": {
+      "user_id": "user@example.com",
+      "project": "git-snap",
+      "model": "claude-sonnet-4",
+      "request_type": "code_generation"
+    }
+  },
+  {
+    "id": "inference_002",
+    "timestamp": "2025-07-04T10:45:00Z",
+    "attributes": {
+      "user_id": "user@example.com",
+      "project": "git-snap",
+      "model": "claude-sonnet-4",
+      "request_type": "debugging"
+    }
+  }
+]

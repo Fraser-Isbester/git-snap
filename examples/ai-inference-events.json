@@ -1,0 +1,47 @@
+[
+  {
+    "id": "inference_001",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "attributes": {
+      "user_id": "john.doe@company.com",
+      "project": "backend-service",
+      "model": "claude-sonnet-4",
+      "request_type": "code_generation",
+      "tokens_used": 1500
+    },
+    "metadata": {
+      "source": "api",
+      "session_id": "session_123"
+    }
+  },
+  {
+    "id": "inference_002",
+    "timestamp": "2024-01-15T10:45:00Z",
+    "attributes": {
+      "user_id": "jane.smith@company.com",
+      "project": "frontend-app",
+      "model": "claude-sonnet-4",
+      "request_type": "code_review",
+      "tokens_used": 800
+    },
+    "metadata": {
+      "source": "api",
+      "session_id": "session_124"
+    }
+  },
+  {
+    "id": "inference_003",
+    "timestamp": "2024-01-15T11:00:00Z",
+    "attributes": {
+      "user_id": "john.doe@company.com",
+      "project": "backend-service",
+      "model": "claude-sonnet-4",
+      "request_type": "debugging",
+      "tokens_used": 1200
+    },
+    "metadata": {
+      "source": "api",
+      "session_id": "session_125"
+    }
+  }
+]

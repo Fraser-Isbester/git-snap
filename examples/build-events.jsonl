@@ -1,0 +1,4 @@
+{"id": "build_001", "timestamp": "2024-01-15T09:00:00Z", "attributes": {"branch": "main", "commit_sha": "abc123def456", "status": "success", "duration": 180}}
+{"id": "build_002", "timestamp": "2024-01-15T09:15:00Z", "attributes": {"branch": "feature/auth", "commit_sha": "def456ghi789", "status": "failed", "duration": 95}}
+{"id": "build_003", "timestamp": "2024-01-15T09:30:00Z", "attributes": {"branch": "main", "commit_sha": "ghi789jkl012", "status": "success", "duration": 165}}
+{"id": "build_004", "timestamp": "2024-01-15T09:45:00Z", "attributes": {"branch": "hotfix/security", "commit_sha": "jkl012mno345", "status": "success", "duration": 140}}
